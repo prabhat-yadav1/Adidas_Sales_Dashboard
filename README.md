@@ -35,3 +35,5 @@ Data Analysis
 Purpose
 
 The main objective of this project is to demonstrate data analysis and visualization skills by transforming raw sales data into meaningful business insights using Power BI.
+
+![Adidas Sales Dashboard](Adidas_sales_dashboard.png)
